@@ -1,0 +1,17 @@
+.contents {
+    background-color: yellow;
+ 
+}
+.title {
+    color: red;
+ 
+    text-align: center;
+    size: 32px;
+}
+
+.contents .recipe-list {
+    text-align: left;
+    size: 18 px;
+    color: blue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
